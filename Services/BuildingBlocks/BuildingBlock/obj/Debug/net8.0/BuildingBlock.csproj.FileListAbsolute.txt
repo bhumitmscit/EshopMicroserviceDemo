@@ -1,0 +1,12 @@
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\bin\Debug\net8.0\BuildingBlock.deps.json
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\bin\Debug\net8.0\BuildingBlock.dll
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\bin\Debug\net8.0\BuildingBlock.pdb
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.csproj.AssemblyReference.cache
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.AssemblyInfoInputs.cache
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.AssemblyInfo.cs
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.csproj.CoreCompileInputs.cache
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.dll
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\refint\BuildingBlock.dll
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\BuildingBlock.pdb
+D:\Tech\EshopMicroserviceDemo\Services\BuildingBlocks\BuildingBlock\obj\Debug\net8.0\ref\BuildingBlock.dll

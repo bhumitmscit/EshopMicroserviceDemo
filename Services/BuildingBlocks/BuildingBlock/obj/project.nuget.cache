@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "loN9feTwH+G/B3qAcq2GwOpJDf4UvZpUtGpmYZb1qe+6TU6yV/oXG0DWXLYnN8SL0o+p8j9d8FYIaQFv58UbMA==",
+  "success": true,
+  "projectFilePath": "D:\\Tech\\EshopMicroserviceDemo\\Services\\BuildingBlocks\\BuildingBlock\\BuildingBlock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Bhumit Patel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
